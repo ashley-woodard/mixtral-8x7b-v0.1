@@ -1,6 +1,6 @@
 version: 1.0.0
 
-name: mixtral-8x7b-v0.1
+name: mixtral-8x7b-v0-1
 import_source: GIT
 
 # you can choose the options between ONNX, TENSORFLOW, PYTORCH
